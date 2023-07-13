@@ -6,8 +6,8 @@
 
 - :mailbox: Как связаться со мной:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" align="left" width="40" height="40" alt="Gmail">]()
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram">]()
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" align="left" width="40" height="40" alt="Gmail">](mailto:malogbal@yandex.ru)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram">](https://t.me/alexandersultanaev)
 
 ### 💻 Технологии:
 
